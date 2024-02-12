@@ -1,2 +1,2 @@
 # SpringSecurity
-스프링 시큐리티에 대해 공부하는 레포
+[참고 Repository](https://github.com/onjsdnjs/corespringsecurity)
